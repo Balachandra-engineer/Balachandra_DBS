@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DbsTask.iml" filepath="$PROJECT_DIR$/.idea/modules/DbsTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DbsTask.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DbsTask.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DbsTask.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DbsTask.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DbsTask.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DbsTask.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DbsTask.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DbsTask.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/436780253/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/436780253/react-native-gradle-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/436780253/react-native-gradle-plugin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/436780253/react-native-gradle-plugin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/436780253/react-native-gradle-plugin.test.iml" filepath="$PROJECT_DIR$/.idea/modules/436780253/react-native-gradle-plugin.test.iml" />
+    </modules>
+  </component>
+</project>
